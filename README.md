@@ -517,13 +517,7 @@ openssh-splunk-siem-analysis/
 |------|---------|---------|
 | ![Splunk](https://img.shields.io/badge/-Splunk-black?logo=splunk) **Splunk Enterprise** | 9.1.6 | SIEM platform — log ingestion, search, alerting, dashboards |
 | ![Kali](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kalilinux) **Kali Linux** | 2025.1c | Host operating system |
-| **OpenSSH** | System default | Log source — authentication events |
-| **Nessus** | Essentials | Vulnerability scanning (referenced in analyst profile) |
-| **Ansible** | 2.15+ | Patch management automation |
-| **Suricata** | 8.0.4 | Network IDS — threat detection |
-| **Nginx** | 1.24.x | Web server — target of web app assessment |
-| **VirtualBox** | Latest | Virtualization environment |
-
+| **OpenSSH** | System default | Log source — authentication evironment.
 ---
 
 ## 📊 Frameworks & Compliance Alignment
@@ -549,7 +543,6 @@ openssh-splunk-siem-analysis/
 [![GitHub](https://img.shields.io/badge/GitHub-kosijustice-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kosijustice)
 [![Email](https://img.shields.io/badge/Email-kosijustice7alucho@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kosijustice7alucho@gmail.com)
 
-📍 Clemson, SC 29631 | 📞 864-765-8789
 
 </div>
 
