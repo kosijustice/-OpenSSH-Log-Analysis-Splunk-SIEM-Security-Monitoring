@@ -568,3 +568,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 **Built with hands-on SOC analyst experience | Powered by Splunk Enterprise**
 
 </div>
+
+See below the full Report of my prject
+[Splunk-SIEM-Security-Monitoring-Report](https://github.com/kosijustice/-OpenSSH-Log-Analysis-Splunk-SIEM-Security-Monitoring/blob/main/Splunk_Security_Report_Final_v2.docx)
